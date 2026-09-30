@@ -1,35 +1,46 @@
 # Roman Abolmasov
 
-**AI / Agentic Architect | Enterprise AI Systems | Multi-Agent Platforms**
+**AI / Agentic Architect · Generative AI Solutions Architect · Lead Full-Stack Engineer**
 
-I design and implement production-oriented AI systems: multi-agent orchestration, RAG/knowledge architectures, MCP/A2A interoperability, evaluation and guardrails, and cloud-native deployment across Azure, AWS, and Google Cloud.
+Solutions architect and hands-on lead engineer with **15+ years** of software delivery and a recent focus on **production Generative AI systems**, multi-agent platforms, and cloud-native enterprise delivery across **Azure, Google Cloud, and AWS**.
+
+I design architectures that combine LLMs with retrieval, MCP/tool control planes, and deterministic guardrails — then implement and operate them end-to-end (UI, APIs, identity, CI/CD, and production hardening).
 
 ## Architecture Focus
 
-- Agentic AI and multi-agent systems
-- LLM application architecture
+- Agentic AI and multi-agent orchestration
 - RAG and enterprise knowledge systems
-- MCP / A2A and agent interoperability
-- AI orchestration and human-in-the-loop workflows
+- MCP / A2A tool interoperability
+- NLQ over operational metrics with citations
+- Human-in-the-loop and deterministic validation
 - Evaluation, observability, and guardrails
 - AI governance for enterprise delivery
 - Cloud-native AI platforms and CI/CD
 
+## Selected Delivery Themes
+
+Anonymized highlights from recent architecture and implementation work:
+
+- **Enterprise GenAI assistants** — RAG, vector search, Microsoft identity/Graph workflows, MCP tool registries
+- **Commercial analytics AI** — multi-source ingestion, anomaly/risk detectors, NLQ with factor citations, operational alerting
+- **Agent platforms** — multi-service provisioning/runtime patterns on Cloud Run with secure CI/CD
+- **Voice agents** — outbound orchestration with tool-backed booking (no hallucinated side effects)
+- **Cloud SaaS products** — full-stack platforms on Azure and GCP with production-readiness practices
+- **Regulated enterprise systems** — identity, search, portals, and integration-heavy Azure landscapes
+
 ## Technology
 
 **AI**
-- Azure AI / Microsoft Foundry patterns
-- Copilot extension contracts
-- RAG / hybrid retrieval
-- MCP-style tool servers
-- Agent evaluation and guardrails
+- Azure AI / Microsoft Foundry · OpenAI · Vertex AI / Gemini · Anthropic-oriented runtimes
+- RAG · vector search (Pinecone / pgvector) · MCP · agent orchestration · NLQ · guardrails
 
 **Cloud**
-- Azure · AWS · Google Cloud
+- Azure · Google Cloud · AWS
 
 **Engineering**
-- Python · FastAPI · APIs
-- Docker · Kubernetes · GitHub Actions · Terraform
+- TypeScript · Python · C#/.NET · React / Next.js · Angular · Node.js · FastAPI
+- PostgreSQL · MongoDB · Docker · Kubernetes · Terraform · GitHub Actions · Azure DevOps
+- OIDC / OAuth2 / MSAL · secret management · Workload Identity Federation
 
 ## Selected Architecture Work
 
@@ -42,6 +53,19 @@ I design and implement production-oriented AI systems: multi-agent orchestration
 | [azure-ai-foundry-copilot](https://github.com/abolmasov/azure-ai-foundry-copilot) | Azure AI / Foundry / Copilot architecture seams |
 | [cloud-native-ai-ops](https://github.com/abolmasov/cloud-native-ai-ops) | Containerized AI services, K8s, CI/CD |
 
+## Certifications
+
+- [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab) (AI-103)
+- [Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/agentic-ai-business-solutions-architect?tab=credentials-tab) (AB-100)
+- [GitHub Copilot](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/github-copilot?tab=credentials-tab) (GH-300)
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+## Education
+
+- M.Sc. Physics and Technology — Dnipropetrovsk National University
+- M.Sc. Accounting and Auditing — Dnipropetrovsk National University
+
 ## Positioning
 
-Principal / architect-level focus on **system design and operational readiness** for enterprise AI — not tutorial demos.
+Principal / architect-level focus on **system design and operational readiness** for enterprise AI — architecture ownership with hands-on delivery, not tutorial demos.
