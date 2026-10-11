@@ -55,11 +55,17 @@ Anonymized highlights from recent architecture and implementation work:
 
 ## Certifications
 
-- [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab) (AI-103)
 - [Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/agentic-ai-business-solutions-architect?tab=credentials-tab) (AB-100)
+- [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab) (AI-103)
 - [GitHub Copilot](https://learn.microsoft.com/en-us/users/romanabolmasov-6110/credentials/certification/github-copilot?tab=credentials-tab) (GH-300)
 - Microsoft Certified: Azure AI Engineer Associate (AI-102)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft: Frontier Transformation Engineer
+- Microsoft: Fabric IQ+ Data Agents – Proficient
+- Microsoft: Sovereign Cloud – Proficient
+- Microsoft: Activate Organizational Intelligence with Microsoft IQ – Proficient
+
+All badges: [Credly profile](https://www.credly.com/users/roman-abolmasov/badges)
 
 ## Education
 
